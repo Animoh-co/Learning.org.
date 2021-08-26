@@ -1,0 +1,95 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+  
+}
+
+#button{
+border-radius: 5px;
+margin-top: 10px;
+}
+
+
+.topnav {
+	overflow: hidden;
+	background-color: rgb(75, 72, 72);
+	position:sticky;
+	top: 0;
+    width: 100%;
+  }
+  
+  .topnav a {
+	float: left;
+	color: #f2f2f2;
+	font-family: cursive;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+  }
+
+  .topnav-right {
+    float: right;
+    }
+
+
+ 
+  
+   h1,h2,h3{
+      color:cornsilk;
+      
+   }
+
+   h1,h3{
+    background-color: grey;
+   }
+
+    #image{
+      Width: 200px;
+      Height: 100px;
+    }
+
+    
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
+
+
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+.input_div_message_page label
+{
+	color: black;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+ 
+
+
+
+
+
+  
+
